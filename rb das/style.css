@@ -1,0 +1,22 @@
+/* Custom Styles */
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+}
+
+.hero {
+    background: url('hero.jpg') no-repeat center center;
+    background-size: cover;
+    color: #fff;
+    padding: 120px 0;
+}
+
+.card {
+    border: none;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+footer {
+    font-size: 0.9rem;
+}
